@@ -78,7 +78,7 @@ This dashboard could be used by:
 
 ## 📎 Preview
 
-![Sales Dashboard]
+![Sales Dashboard](sales%20dashboard.png)
 
 ---
 
