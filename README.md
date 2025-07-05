@@ -51,8 +51,8 @@ It covers multiple perspectives like shipping performance, category-wise sales, 
 ## 📁 Included Files
 
 - `sales dashboard.png` – Visual snapshot of the final dashboard
-- `sales_dashboard.pbix` – Power BI working file (upload if applicable)
-- `sales_data.xlsx` – Data source (optional, based on privacy)
+- `sales_dashboard.pbix` – Power BI working file
+- `sales_data.xlsx` – Data source 
 
 ---
 
@@ -78,7 +78,7 @@ This dashboard could be used by:
 
 ## 📎 Preview
 
-![Sales Dashboard](sales%20dashboard.png)
+![Sales Dashboard]
 
 ---
 
